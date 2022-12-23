@@ -196,11 +196,23 @@ margin: 0;
 }
 
 /** footer **/
-
-.footer a {
-  color: #4D2600;
-  text-decoration: none;
+.footer {
+  background-color: #42A5B6;
+  color: white;
 }
+
+.fa {
+  font-size:56px;
+  font-weight: 500;
+  color:white;
+}
+
+.fa:hover { 
+  box-shadow: #42A5B6 0 1px 30px;
+  transition-duration: .1s;
+}
+
+
 
 
 /** home-button **/
@@ -275,5 +287,7 @@ margin: 0;
 .grid-item:nth-child(3) {
     grid-area: button3;
 }
+
+
 
 
