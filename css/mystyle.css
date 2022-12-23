@@ -199,6 +199,7 @@ margin: 0;
 .footer {
   background-color: #42A5B6;
   text-color: #FFE6CC;
+  padding: 10px;
 }
 
 .fa {
