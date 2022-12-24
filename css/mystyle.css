@@ -291,8 +291,11 @@ margin: 0;
 /** table **/
 
 table {
+  border-collapse: collapse;
+  border-radius: 1em;
+  overflow: hidden;
   border: 1px solid;	
-  border-radius: 10px;
+  border: #FFE6CC;
   max-width:800px; 
   width:100%;
   margin:0 auto;
@@ -302,11 +305,11 @@ table {
 
 th {
   background-color: #FFE6CC;
-  padding: 12px 15px;
+  padding: 1em;
 }
 
 td { 
-   padding: 12px 15px;
+   padding: 1em;
 }
 
 
