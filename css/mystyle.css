@@ -327,18 +327,18 @@ td {
   padding-left:4px 8px;
 }
 
-.styled-table-red th {
+.styled-table-green th {
   background-color: #A8CDA3;
   padding: 1em;
 }
 
-.styled-table-red td { 
+.styled-table-green td { 
    padding: 1em;
 }
 
 /** table-blue **/
 
-.styled-table-red table {
+.styled-table-blue table {
   border-collapse: collapse;
   border-radius: 1em;
   overflow: hidden;
@@ -351,12 +351,12 @@ td {
   padding-left:4px 8px;
 }
 
-.styled-table-red th {
+.styled-table-blue th {
   background-color: #B1D7E5;
   padding: 1em;
 }
 
-.styled-table-red td { 
+.styled-table-blue td { 
    padding: 1em;
 }
 
