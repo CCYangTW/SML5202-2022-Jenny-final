@@ -9,6 +9,15 @@
   background-color: #FFE6CC;
 }
 
+
+.btn {
+  background-color: #42A5B6;
+  border-radius: 4px;
+  border-style: none;
+  color: #fff;
+}
+
+
 .button {
   background-color: #42A5B6;
   border-radius: 4px;
@@ -50,6 +59,12 @@
  padding: 0;
 margin: 0;
     box-sizing: border-box;
+}
+
+
+/** space between list items **/
+li:not(:last-child) {
+    margin-bottom: 5px;
 }
 
 
