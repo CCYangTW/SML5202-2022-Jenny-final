@@ -10,12 +10,19 @@
 }
 
 
-.btn {
+
+btn{
   background-color: #42A5B6;
   border-radius: 4px;
   border-style: none;
   color: #fff;
 }
+
+.btn:hover,
+.btn:focus {
+  opacity: .75;
+}
+
 
 
 .button {
@@ -62,10 +69,6 @@ margin: 0;
 }
 
 
-/** space between list items **/
-li:not(:last-child) {
-    margin-bottom: 5px;
-}
 
 
 
